@@ -1,0 +1,16 @@
+{
+  "produtos": [
+    {
+      "id": "a87c",
+      "nome": "Morango KG",
+      "categoria": "Frutas",
+      "preco": "15.00"
+    },
+    {
+      "id": "01cb",
+      "nome": "Banana Prata KG",
+      "categoria": "Frutas",
+      "preco": "6.99"
+    }
+  ]
+}
